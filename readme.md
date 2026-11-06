@@ -19,15 +19,15 @@
 
 ```yaml
 /nikhilesh_jangid:
-  education:   B.E. Robotics & Automation · GEC Rajkot (GTU) · final year
-  subscribers: [ros2_jazzy, gazebo_harmonic, ros2_control, esp32, raspberry_pi, n8n]
+  education:   B.E. Robotics & Automation · GEC Rajkot · final year
+  subscribers: [ros2_jazzy, gazebo, ros2_control, esp32, raspberry_pi]
   publishers:
-    /projects/smart_factory_amr:  in progress   # M0–M3 done, M4 odometry next
-    /projects/home_server:        running       # Docker + Tailscale, 0 exposed ports
+    /smart_factory_amr:  in_progress   # M0–M3 done, M4 next
+    /home_server:        running       # Docker + Tailscale
   services:
-    /internship/request:          open          # 3–6 months, from Jan 2027
-  interests:   [drone systems, medical robotics, robot simulation, automation]
-  workflow:    requirements -> decision records -> tests with pass criteria -> CI
+    /internship/request: open          # 3–6 months, Jan 2027
+  interests:   [drones, medical_robotics, simulation, automation]
+  workflow:    requirements -> decisions -> tests -> CI
 ```
 
 ---
@@ -126,8 +126,8 @@ M1  Custom robot model     ██████████  done
 M2  Basic movement         ██████████  done
 M3  Sensors                ██████████  done
 M4  Odometry               ░░░░░░░░░░  next
-M5  SLAM  ·  M6 Localization  ·  M7 Nav2  ·  M8 Obstacle avoidance
-M9  Factory world  ·  M10 Task automation  ·  M11 Vision  ·  M12 Dashboard
+M5  SLAM · M6 Localization · M7 Nav2 · M8 Obstacle avoidance
+M9  Factory world · M10 Tasks · M11 Vision · M12 Dashboard
 ```
 
 ---
