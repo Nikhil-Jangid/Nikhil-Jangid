@@ -1,29 +1,38 @@
 <h1 align="center">Hi 👋, I'm Nikhilesh Jangid</h1>
-<h3 align="center">A passionate developer from India Currently Studying Robotics and Automation.</h3>
+<h3 align="center">Robotics & Automation Engineering student · ROS 2 · C++ · Python · Embedded systems</h3>
 
-- 🔭 I’m currently developing [N.O.V.A: AI-Powered SmartLiving Assistant](https://github.com/Nikhil-Jangid/NOVA)
-
-- 🌱 I’m currently learning **Deep Learning, Neural Networking.**
-
-- 🎮 I upload gaming videos on [https://www.youtube.com/@akaimmortals](https://www.youtube.com/@akaimmortals)
-
-- 💬 Ask me about **Python, AI.**
-
-- 📫 How to reach me **nikhiljangid962@gmail.com**
-
-- 📄 Know about my experiences [https://nikhiljangid.tiiny.site](https://nikhiljangid.tiiny.site)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/nikhil_j962" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nikhil_j962" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nikhilesh-jangid-2b45a9296" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhilesh-jangid-2b45a9296" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/18187228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18187228" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/akaimmortals" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="akaimmortals" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nikhiljangid962" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nikhiljangid962" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/nikhilj962">LinkedIn</a> ·
+  <a href="mailto:nikhiljangid962@gmail.com">nikhiljangid962@gmail.com</a> ·
+  Surat, Gujarat, India
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+I'm a final-year B.E. Robotics and Automation student at Government Engineering College, Rajkot (GTU). I build systems end to end: the hardware and firmware, the software around them, and the testing that proves they work.
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/nikhilj962"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nikhilj962" /></a></p><br><br>
+### 🤖 What I'm building
+
+- **[Smart-Factory AMR](https://github.com/Nikhil-Jangid/smart-factory-amr)**: an autonomous mobile robot for factory material handling, developed simulation-first in ROS 2 Jazzy and Gazebo Harmonic.
+  - Differential-drive robot in URDF/Xacro with calculated mass and inertia
+  - ros2_control velocity control with a command-timeout safety guard
+  - LiDAR, IMU and wheel-encoder simulation, plus a custom C++ Gazebo plugin that fixes an IMU aliasing fault
+  - Written requirements, 40+ design decision records, 40+ tests with numeric pass criteria, and GitHub Actions CI
+  - Next: odometry, SLAM and Nav2 navigation
+- **[Home Server Dashboard](https://github.com/Nikhil-Jangid/home-server-dashboard)**: a dashboard for my self-hosted home server, reached over Tailscale, with system stats, service error logs and a web terminal.
+
+### ⚙️ What I've shipped
+
+- **WhatsApp operations platform** for a legal services firm (n8n, self-hosted AWS, Meta Graph API): 2,500+ workflow executions in the first week at under 1% failure and ~0.22 s average response time.
+- **WhatsApp Factory Monitor**: a discrete-event simulation of machines, an AGV fleet and breakdowns, with what-if comparison across 7 production scenarios.
+- **[Campus Sports Integrity System](https://github.com/Nikhil-Jangid/campus-sports-integrity-system)**: React, TypeScript, Express, PostgreSQL and Socket.IO; QR check-in with rotating anti-fraud tokens and 40 unit tests.
+- **Hardware**: an ESP32 smart-home system with a custom PCB (team lead), a line-following robot that reached the semifinals of an inter-college competition, and an RFID-controlled record player on Raspberry Pi.
+
+### 🛠️ Tools
+
+- **Robotics:** ROS 2, Gazebo, ros2_control, URDF/Xacro, RViz2, OpenCV
+- **Embedded:** ESP32, Raspberry Pi, Arduino, C/C++ firmware, sensors, motor control, PCB design
+- **Software:** Python, C++, JavaScript/TypeScript, Node.js, React, PostgreSQL, MySQL
+- **Infrastructure:** Linux, Docker, AWS, n8n, Git, GitHub Actions, Tailscale
+
+### 🎯 Looking for
+
+A 3–6 month internship from January 2027 in robotics, especially drone systems and medical robotics.
