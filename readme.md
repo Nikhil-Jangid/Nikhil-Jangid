@@ -22,7 +22,7 @@
   education:   B.E. Robotics & Automation · GEC Rajkot · final year
   subscribers: [ros2_jazzy, gazebo, ros2_control, esp32, raspberry_pi]
   publishers:
-    /smart_factory_amr:  in_progress   # M0–M4 done, M5 (SLAM) next
+    /smart_factory_amr:  in_progress   # M0–M5 done, M6 (localization) next
     /home_server:        running       # Docker + Tailscale
   services:
     /internship/request: open          # 3–6 months, Jan 2027
@@ -50,6 +50,7 @@ Autonomous mobile robot for factory material handling, built **simulation-first*
 - `ros2_control` + command-timeout safety guard
 - LiDAR · IMU · encoders, custom C++ Gazebo plugin
 - Wheel odometry verified against ground truth, with injected-error sensitivity tests
+- SLAM Toolbox mapping, each map checked against the world file (walls within 7 cm, pose within 14 mm)
 - Found a Gazebo shutdown deadlock → [gz-sim #4173](https://github.com/gazebosim/gz-sim/issues/4173)
 
 </td>
@@ -127,8 +128,9 @@ M1  Custom robot model     ██████████  done
 M2  Basic movement         ██████████  done
 M3  Sensors                ██████████  done
 M4  Odometry               ██████████  done
-M5  SLAM                   ░░░░░░░░░░  next
-M6  Localization · M7 Nav2 · M8 Obstacle avoidance
+M5  SLAM                   ██████████  done
+M6  Localization           ░░░░░░░░░░  next
+M7  Nav2 · M8 Obstacle avoidance
 M9  Factory world · M10 Tasks · M11 Vision · M12 Dashboard
 ```
 
