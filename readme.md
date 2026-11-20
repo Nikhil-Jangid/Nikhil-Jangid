@@ -22,7 +22,7 @@
   education:   B.E. Robotics & Automation · GEC Rajkot · final year
   subscribers: [ros2_jazzy, gazebo, ros2_control, esp32, raspberry_pi]
   publishers:
-    /smart_factory_amr:  in_progress   # M0–M5 done, M6 (localization) next
+    /smart_factory_amr:  in_progress   # M0–M6 done, M7 (Nav2) next
     /home_server:        running       # Docker + Tailscale
   services:
     /internship/request: open          # 3–6 months, Jan 2027
@@ -51,7 +51,8 @@ Autonomous mobile robot for factory material handling, built **simulation-first*
 - LiDAR · IMU · encoders, custom C++ Gazebo plugin
 - Wheel odometry verified against ground truth, with injected-error sensitivity tests
 - SLAM Toolbox mapping, each map checked against the world file (walls within 7 cm, pose within 14 mm)
-- Found a Gazebo shutdown deadlock → [gz-sim #4173](https://github.com/gazebosim/gz-sim/issues/4173)
+- AMCL localization on the saved map (within 14 mm at rest) + optional wheel/IMU EKF fusion
+- Found a Gazebo shutdown deadlock → [gz-sim #4173](https://github.com/gazebosim/gz-sim/issues/4173) and a Nav2 AMCL map-origin bug → [navigation2 #6833](https://github.com/ros-navigation/navigation2/issues/6833)
 
 </td>
 <td width="50%" valign="top">
@@ -129,8 +130,9 @@ M2  Basic movement         ██████████  done
 M3  Sensors                ██████████  done
 M4  Odometry               ██████████  done
 M5  SLAM                   ██████████  done
-M6  Localization           ░░░░░░░░░░  next
-M7  Nav2 · M8 Obstacle avoidance
+M6  Localization           ██████████  done
+M7  Nav2                   ░░░░░░░░░░  next
+M8  Obstacle avoidance
 M9  Factory world · M10 Tasks · M11 Vision · M12 Dashboard
 ```
 
